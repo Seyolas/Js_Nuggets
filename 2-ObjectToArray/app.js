@@ -5,7 +5,7 @@
 
 
 const person = {
-    name:'ümit özdağ',
+    name:'john doe',
     age:25,
     status:'student',
     languages:['türkçe','almanca'],
